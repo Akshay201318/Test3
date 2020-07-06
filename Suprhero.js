@@ -70,13 +70,15 @@ function addToFavourite()
                 localStorage.setItem("favimges",JSON.stringify(array));
         }
 }
+document.getElementById("btn1").addEventListener('click',addToFavourite);
+console.log(document.getElementById("btn1"));
 
 
 /*calling addToFavourite function when add favourite btn is clicked*/
 
 
-var addfav=document.querySelector("#btn1");
-     addfav.click(addToFavourite);
+
+
 
 
 
