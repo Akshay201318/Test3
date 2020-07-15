@@ -20,7 +20,7 @@ And for more information about that superhero click on the image.
   - [JavaScript]( https://www.javascript.com/) -for adding various functionalities to the page.
   
   ## Deployment
-   - For deploying this website online i used github. I hosted this website github and here is the link of the website  [superheroimages](superheroimages.com).
+   - For deploying this website online i used github. I hosted this website github and here is the link of the website  [superheroimages](https://akshay201318.github.io/Test3/).
   
   
   ## Contributing
