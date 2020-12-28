@@ -44,6 +44,7 @@ async function fetchImage()
         /*setting url for image after search*/
         var homeimg=document.getElementById("super");
         homeimg.src=img;
+        document.getElementById("next").style.display='flex';
         
 }
 
