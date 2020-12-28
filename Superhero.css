@@ -3,7 +3,7 @@
     #next
     {   margin-left: -100 px;
        height: 70vh;
-       display:flex;
+       display:none;
        justify-content: space-around;
     }
    
@@ -30,7 +30,7 @@
     #next
     {   margin-left: 52px;
        height: 70vh;
-       display:block;
+       display:none;
        
     }
     #btn1
@@ -229,4 +229,9 @@ body{
     width:400px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-top: 5%;  
+}
+
+
+#next{
+    display:none
 }
